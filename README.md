@@ -1,4 +1,4 @@
-# eca
+# gol
 'Game of Life' demo
 
 ## Setup
